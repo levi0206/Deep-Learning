@@ -4,4 +4,4 @@
 - 03_gradient_descent
 - 04_regression
 - 05_CNN
-- model_selection
+- model_selection (unfinished)
