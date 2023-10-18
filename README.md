@@ -5,4 +5,14 @@
 - 04_regression (no code)
 - 05_CNN
 - 06_model_selection
-- 07_RNN_LSTM
+## Upcoming Topics
+- early-stopping
+- PCA
+- embedding
+- auto-encoder
+- VAE
+- GAN (finished)
+- RNN_LSTM
+- self-attention
+- transformer
+- RL
