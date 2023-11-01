@@ -5,6 +5,8 @@
 - 04_regression (no code)
 - 05_CNN
 - 06_model_selection
+- *07_RNN_LSTM
+- 08_tsne
 ## Upcoming Topics
 - early-stopping
 - PCA
