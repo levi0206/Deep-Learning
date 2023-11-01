@@ -8,8 +8,6 @@
 - *07_RNN_LSTM
 - 08_tsne
 ## Upcoming Topics
-- early-stopping
-- PCA
 - embedding
 - auto-encoder
 - VAE
