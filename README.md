@@ -7,7 +7,7 @@
 - 06_model_selection
 - 07_RNN_LSTM
 - 08_tsne
-- *09_embedding (unfinished)
+- 09_embedding (unfinished)
 - *10_VAE (unfinished)
 - 11_GAN
 ## Upcoming Topics
