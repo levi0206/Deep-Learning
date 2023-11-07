@@ -14,7 +14,7 @@ Writing these blog-like PyTorch tutorial not only enhances my coding and compreh
 - 06_model_selection
 - 07_RNN_LSTM
 - 08_tsne
-- 09_embedding (unfinished)
+- 09_autoencoder
 - *10_VAE (unfinished)
 - 11_GAN
 ## Upcoming Topics
