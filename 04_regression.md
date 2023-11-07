@@ -106,8 +106,8 @@ Also, when tuning hyperparameter, I will tune a variable and keep all the other 
 Although I tried many different combinations of above parameters, the accuracy does not improve much. Probably this is why people say that training deep learning models requires sufficient experiences. 
 
 ## References
-[Stackoverflow: Gradient Descent vs Adagrad vs Momentum in TensorFlow](https://stackoverflow.com/questions/36162180/gradient-descent-vs-adagrad-vs-momentum-in-tensorflow)
+- [1] https://stackoverflow.com/questions/36162180/gradient-descent-vs-adagrad-vs-momentum-in-tensorflow
 
-[Stack Exchange: Guidelines for selecting an optimizer for training neural networks](https://datascience.stackexchange.com/questions/10523/guidelines-for-selecting-an-optimizer-for-training-neural-networks)
+- [2] https://datascience.stackexchange.com/questions/10523/guidelines-for-selecting-an-optimizer-for-training-neural-networks
 
-[An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747), Sebastian Ruder
+- [3] An overview of gradient descent optimization algorithms, https://arxiv.org/abs/1609.04747
