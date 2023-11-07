@@ -3,7 +3,7 @@ Except for 02: basic deep learning techniques and 04: regression, each notebook 
 - **motivation**
 - **math** behind the model 
 - **PyTorch** implementation.
-- 
+
 Writing these blog-like PyTorch tutorial not only enhances my coding and comprehension of these deep learning models but also helps me develop my writing and communication skills so that anyone could follow my ideas.
 ## Content
 - 01_A_Guild_to_PyTorch_dataset
